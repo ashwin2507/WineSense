@@ -1,2 +1,2 @@
-# Wine_sense
+# WineSense
 A Comprehensive Dashboard for Assessing Wine Quality

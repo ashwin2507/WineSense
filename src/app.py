@@ -10,7 +10,7 @@ import plotly.express as px
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
 server = app.server
 
-wine_df = pd.read_csv("data/clean/cleaned_wine_data.csv")
+wine_df = pd.read_csv("../data/clean/cleaned_wine_data.csv")
 
 province_list = wine_df['province'].unique().tolist()
 variety_list = wine_df['variety'].unique().tolist()
@@ -194,5 +194,4 @@ def generate_chart(drop1, drop2):
                 
     return pie_chart,world_map,variety_price
 
-if __name__ == '__main__':
-    app.run_server(debug=True)
+server =  app.run_server()

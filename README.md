@@ -28,7 +28,7 @@ The dashboard also provides users with various filtering options, including the 
 Overall, this dashboard provides a user-friendly interface that enables users to explore wine production data easily and gain valuable insights into the industry. It is a useful tool for anyone who is interested in wine, from casual enthusiasts to industry professionals.
 
 The 3 types of visualizations included are:
-- A line plot showing the percentage of wines by variety that comes from the selected province. 
+- A bar plot showing the percentage of wines by variety that comes from the selected province. 
 - A world map that shows the number of wines coming from different countries that are contained in our dataset.
 - A box plot of the price of wine according to the selected type of wine and province by the user.
 

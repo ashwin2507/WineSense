@@ -11,7 +11,7 @@ https://winesense.onrender.com/
 
 ## Overview 
 
-This repository hosts the dashboard for Wine data released by [*Kaggle*](https://www.kaggle.com/datasets/zynicide/wine-reviews). The motivation, purpose, description of data and research question can be found in our proposal.
+This repository hosts the dashboard for Wine data released by [*Kaggle*](https://www.kaggle.com/datasets/zynicide/wine-reviews). The motivation, purpose, description of data and research question can be found in our [proposal](https://github.com/ashwin2507/WineSense/blob/main/docs/proposal.md).
 
 ## Usage 
 

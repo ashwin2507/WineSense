@@ -74,7 +74,7 @@ Interested in contributing? Check out the [contributing guidelines](CONTRIBUTING
 
 ## License 
 
-`WineSense` was created using Dash visualization by Jenit Jain. It is licensed under the terms of the [MIT license](LICENSE).
+`WineSense` was created using Dash visualization by Ashwin Babu. It is licensed under the terms of the [MIT license](LICENSE).
 
 ## References
 
